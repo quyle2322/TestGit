@@ -1,3 +1,7 @@
 
+<<<<<<< HEAD
 truong
 nguyen
+=======
+truong1234
+>>>>>>> nhanh
